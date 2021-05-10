@@ -20,5 +20,7 @@ But I did not do that, if you achieved it, don't hesitate to share with me!
 
 
 
-by Alexander Ezharjan
+<p align="right">by Alexander Ezharjan</p>
+
+
 
